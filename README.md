@@ -9,8 +9,8 @@ Module 2 Challenge Submission
 ## Results:
 *analysis and screenshots
 
-
-![Outcome for 2018](https://user-images.githubusercontent.com/85259984/128575125-6392fc8e-e75f-4b1a-8c76-858f8eda474b.png)
+![Outcome for 2017](https://github.com/ChalmersMJason/stocks-analysis/blob/main/VBA_Challenge_2017.png)
+![Outcome for 2018](https://github.com/ChalmersMJason/stocks-analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Summary: 
 *Why refactor code
