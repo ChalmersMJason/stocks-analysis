@@ -28,5 +28,6 @@ As seen in the images below, refactoring this code improved the performance. The
 ![Outcome for 2018](https://github.com/ChalmersMJason/stocks-analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Summary: 
-* Refactoring code is important as structuring code in the most efficient way will allow for both better performance for the end user and easier collaboration on the backend. 
-*Advantages and disadvantages of the orginal and refactored VBA script
+* Refactoring code is important as structuring code in the most efficient way will allow for both better performance for the end user and easier collaboration on the backend. The end users of the code we are writing should be able to get insights as fast as possible with instructions that are easy to follow. If we must pass our code off to another team member or someone else needs to use our file that understands VBA, the code should be written clean and efficiently so they can add to it as needed without wasting time interpreting it. 
+
+* The original VBA script we had achieved the end result we were looking for. The advantage in that code was that it was sufficient and if this was not an ongoing need for our user it may not be worth the time to update it. The refactored code offered more readability on the backend & ran quicker, both of which are big advantages. The only disadvantage to the refactored code would be the time it took to create. We must weigh the pros and cons of refactoring prior to investing the time into doing it. 
